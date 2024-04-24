@@ -1,0 +1,47 @@
+h1
+body{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: beige;
+    h1{text-align: center;
+        color: black;
+        font-weight: 800;
+        font-size: larger
+        /*font-family: Arial, Helvetica, sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,400;1,900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,400;1,900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+}
+
+}
+h2
+body{color: black;
+    font-weight: 600;
+    text-decoration: solid;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif}
+
+    h3
+    body{
+        color: black;
+        font-weight: 100;
+        font-size: small;
+        text-align: center;
+        font-style: normal;
+        font-family: Arial, Helvetica, sans-serif
+    }
+
+h4
+body{
+    img 
+        width: 10%;
+        margin:auto
+        display: block;
+    
+        border-radius: 80px;
+    }
+
+    a:hoover {
+        color: brown;
+    }
